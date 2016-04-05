@@ -7,6 +7,7 @@ namespace CFDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Does CF work with GitHub pull requests?");
+			Console.WriteLine("Hell yeah!");
         }
     }
 }
