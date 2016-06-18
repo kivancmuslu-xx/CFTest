@@ -1,3 +1,4 @@
+Changing the first line.
 This is a test.
 More changes on this file.
 Changing the last line.
